@@ -1,9 +1,9 @@
 # Student-Enrollment-Form
 
-Description
+Description :-
 The Student Form project is a web application that allows users to fill out a form to enroll students. The form collects information such as Roll No, Full Name, Class, Birth Date, Address, and Enrollment Date. The data is stored in the STUDENT-TABLE relation of the SCHOOL-DB database using JsonPowerDB.
 
-Benefits of using JsonPowerDB
+Benefits of using JsonPowerDB :- 
 JsonPowerDB is a high-performance, schema-less, and easy-to-use database that provides several benefits for this project:
 
 Simple and Fast: JsonPowerDB simplifies database operations with its easy-to-use API and performs at a high speed, providing efficient data storage and retrieval.
@@ -16,17 +16,17 @@ Multi-mode Database: JsonPowerDB supports multiple data models, including Key-Va
 
 Built-in Server-Side Execution: JsonPowerDB allows executing server-side functions for advanced data operations, aggregations, and calculations, enhancing the capabilities of the Student Form.
 
-Release History
+Release History:-
 Version 1.0: Initial release of the Student Form code on Github.
 
-Requirements
+Requirements:-
 To run the Student Form project, you need the following:
 
 Web browser (Chrome, Firefox, Safari, etc.)
 Internet connection to access the required libraries and JsonPowerDB
 
 
-Usage
+Usage:-
 Clone or download the project from the Github repository.
 Open the index.html file in a web browser.
 Fill out the student enrollment form with the required information.
@@ -34,5 +34,5 @@ Click the "Save" button to store the data in the JsonPowerDB database.
 The data will be stored in the STUDENT-TABLE relation of the SCHOOL-DB database.
 
 
-Credits
+Credits:-
 The Student Form project is developed by Kunal More
