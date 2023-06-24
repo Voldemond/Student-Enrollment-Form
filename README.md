@@ -22,7 +22,7 @@ Version 1.0: Initial release of the Student Form code on Github.
 Requirements:-
 To run the Student Form project, you need the following:
 
-Web browser (Chrome, Firefox, Safari, etc.)
+Web browser (Chrome, Firefox, Safari, etc)
 Internet connection to access the required libraries and JsonPowerDB
 
 
